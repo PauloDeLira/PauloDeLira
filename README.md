@@ -22,16 +22,6 @@ Passionate about technology, problem-solving, and building reliable applications
 
 ---
 
-## 🧠 What I do
-
-- ☕ Backend development with Java
-- 🌱 Learning Spring Boot and backend technologies
-- 🗄️ Database modeling and SQL queries
-- 📚 Continuous learning and tech studies
-- 🧩 Problem-solving through practical projects
-- 🔄 Version control with Git & GitHub
-- 🛠️ Building academic and personal projects
-- 🚀 Improving my skills to become a Backend Java Developer
 
 ## 🛠️ Tech Stack
 
